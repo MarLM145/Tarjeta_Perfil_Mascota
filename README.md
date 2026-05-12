@@ -5,4 +5,5 @@ Aplicación móvil que muestra una mascota, hecho en Android Studio.
 * La app está echa en Android Studio usando el lenguaje Kotlin.
 * Fue hecha usando compose.
 ## Archivo principal
+[MainActivity.kt] (./app/src/main/java/com/cursoipn/mascota/MainActivity.kt)
 ## Video del programa funcionando.
