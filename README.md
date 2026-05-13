@@ -7,3 +7,4 @@ Aplicación móvil que muestra una mascota, hecho en Android Studio.
 ## Archivo principal
 [MainActivity.kt](./app/src/main/java/com/cursoipn/mascota/MainActivity.kt)
 ## Video del programa funcionando.
+![video](./Mascota_video.gif)
